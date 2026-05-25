@@ -1,4 +1,4 @@
-# Olá, eu sou a Sara! 
+# Olá, Bem-vindo(a) ao meu perfil!! 
 
 Sou **Contadora Pública** e especialista em **Ciência de Dados**, com formação também em **Análise e Desenvolvimento de Sistemas (ADS)**. 
 Minha paixão é construir a ponte entre a contabilidade tradicional, o setor público e tecnologia.

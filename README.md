@@ -1,7 +1,7 @@
 # Olá, eu sou a Sara! 
 
 Sou **Contadora Pública** e especialista em **Ciência de Dados**, com formação também em **Análise e Desenvolvimento de Sistemas (ADS)**. 
-Minha paixão é construir a ponte entre a contabilidade tradicional, o setor público e a tecnologia de ponta.
+Minha paixão é construir a ponte entre a contabilidade tradicional, o setor público e tecnologia.
 
 Atuo no desenvolvimento de soluções automatizadas para auditoria, conformidade fiscal e análise de dados financeiros,
 transformando dados brutos em insights estratégicos para a gestão pública.
